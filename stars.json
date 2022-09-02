@@ -1,45 +1,63 @@
 [
   {
+    "full_name": "typestack/class-validator",
+    "stargazers_count": 8202,
+    "open_issues_count": 420,
+    "forks_count": 621
+  },
+  {
+    "full_name": "pankod/refine",
+    "stargazers_count": 2723,
+    "open_issues_count": 20,
+    "forks_count": 210
+  },
+  {
+    "full_name": "notadd/notadd",
+    "stargazers_count": 2632,
+    "open_issues_count": 35,
+    "forks_count": 390
+  },
+  {
     "full_name": "FaridSafi/react-native-gifted-chat",
-    "stargazers_count": 11862,
-    "open_issues_count": 69,
-    "forks_count": 3388
+    "stargazers_count": 11870,
+    "open_issues_count": 70,
+    "forks_count": 3391
   },
   {
     "full_name": "airbnb/lottie-android",
-    "stargazers_count": 33147,
+    "stargazers_count": 33156,
     "open_issues_count": 33,
-    "forks_count": 5287
+    "forks_count": 5289
   },
   {
     "full_name": "infinitered/ignite",
-    "stargazers_count": 14157,
-    "open_issues_count": 65,
-    "forks_count": 1151
+    "stargazers_count": 14165,
+    "open_issues_count": 74,
+    "forks_count": 1153
   },
   {
     "full_name": "lingui/js-lingui",
-    "stargazers_count": 3419,
+    "stargazers_count": 3421,
     "open_issues_count": 37,
     "forks_count": 316
   },
   {
     "full_name": "astrodon/astrodon",
-    "stargazers_count": 686,
+    "stargazers_count": 692,
     "open_issues_count": 10,
     "forks_count": 18
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 7543,
-    "open_issues_count": 61,
-    "forks_count": 943
+    "stargazers_count": 7557,
+    "open_issues_count": 62,
+    "forks_count": 944
   },
   {
     "full_name": "amplication/amplication",
-    "stargazers_count": 8289,
-    "open_issues_count": 272,
-    "forks_count": 553
+    "stargazers_count": 8322,
+    "open_issues_count": 286,
+    "forks_count": 557
   },
   {
     "full_name": "open-sauced/api.opensauced.pizza",
@@ -49,33 +67,33 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 761,
+    "stargazers_count": 763,
     "open_issues_count": 18,
-    "forks_count": 364
+    "forks_count": 368
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 126,
-    "open_issues_count": 31,
+    "stargazers_count": 130,
+    "open_issues_count": 28,
     "forks_count": 59
   },
   {
     "full_name": "tajo/ladle",
-    "stargazers_count": 1613,
-    "open_issues_count": 17,
-    "forks_count": 37
+    "stargazers_count": 1623,
+    "open_issues_count": 15,
+    "forks_count": 39
   },
   {
     "full_name": "LyraSearch/lyra",
-    "stargazers_count": 3219,
-    "open_issues_count": 11,
+    "stargazers_count": 3244,
+    "open_issues_count": 14,
     "forks_count": 57
   },
   {
     "full_name": "serverless-stack/sst",
-    "stargazers_count": 8298,
+    "stargazers_count": 8378,
     "open_issues_count": 467,
-    "forks_count": 689
+    "forks_count": 693
   },
   {
     "full_name": "zattoo/use-double-click",
@@ -85,15 +103,15 @@
   },
   {
     "full_name": "serverless/examples",
-    "stargazers_count": 10349,
+    "stargazers_count": 10354,
     "open_issues_count": 161,
-    "forks_count": 4163
+    "forks_count": 4171
   },
   {
     "full_name": "Uniswap/interface",
-    "stargazers_count": 3641,
-    "open_issues_count": 510,
-    "forks_count": 3359
+    "stargazers_count": 3642,
+    "open_issues_count": 509,
+    "forks_count": 3361
   },
   {
     "full_name": "kactus-io/kactus",
@@ -103,15 +121,15 @@
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 60446,
-    "open_issues_count": 222,
-    "forks_count": 5364
+    "stargazers_count": 60471,
+    "open_issues_count": 226,
+    "forks_count": 5368
   },
   {
     "full_name": "falsy/react-with-clean-architecture",
-    "stargazers_count": 406,
+    "stargazers_count": 408,
     "open_issues_count": 1,
-    "forks_count": 72
+    "forks_count": 71
   },
   {
     "full_name": "WrathChaos/react-native-dynamic-search-bar",
@@ -121,62 +139,44 @@
   },
   {
     "full_name": "PedroBern/react-native-collapsible-tab-view",
-    "stargazers_count": 450,
-    "open_issues_count": 78,
-    "forks_count": 81
+    "stargazers_count": 452,
+    "open_issues_count": 79,
+    "forks_count": 82
   },
   {
     "full_name": "Shopify/react-native-performance",
-    "stargazers_count": 459,
-    "open_issues_count": 2,
-    "forks_count": 13
+    "stargazers_count": 460,
+    "open_issues_count": 3,
+    "forks_count": 14
   },
   {
     "full_name": "vydimitrov/react-countdown-circle-timer",
-    "stargazers_count": 452,
+    "stargazers_count": 454,
     "open_issues_count": 1,
     "forks_count": 68
   },
   {
     "full_name": "chramos/react-native-skeleton-placeholder",
-    "stargazers_count": 495,
+    "stargazers_count": 496,
     "open_issues_count": 28,
     "forks_count": 82
   },
   {
     "full_name": "ZeusLN/zeus",
-    "stargazers_count": 500,
-    "open_issues_count": 119,
+    "stargazers_count": 504,
+    "open_issues_count": 120,
     "forks_count": 73
   },
   {
     "full_name": "xcarpentier/rn-tourguide",
-    "stargazers_count": 500,
-    "open_issues_count": 38,
+    "stargazers_count": 502,
+    "open_issues_count": 39,
     "forks_count": 146
   },
   {
     "full_name": "artsy/eigen",
-    "stargazers_count": 3057,
-    "open_issues_count": 56,
-    "forks_count": 493
-  },
-  {
-    "full_name": "ospfranco/sol",
-    "stargazers_count": 1299,
-    "open_issues_count": 6,
-    "forks_count": 26
-  },
-  {
-    "full_name": "WalletConnect/walletconnect-monorepo",
-    "stargazers_count": 898,
-    "open_issues_count": 309,
-    "forks_count": 491
-  },
-  {
-    "full_name": "invertase/notifee",
-    "stargazers_count": 919,
-    "open_issues_count": 117,
-    "forks_count": 81
+    "stargazers_count": 3060,
+    "open_issues_count": 57,
+    "forks_count": 494
   }
 ]
