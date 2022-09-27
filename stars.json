@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "LNReader/lnreader",
+    "stargazers_count": 576,
+    "open_issues_count": 56,
+    "forks_count": 57
+  },
+  {
+    "full_name": "zehfernandes/wordnote",
+    "stargazers_count": 578,
+    "open_issues_count": 16,
+    "forks_count": 28
+  },
+  {
+    "full_name": "microsoft/chart-parts",
+    "stargazers_count": 594,
+    "open_issues_count": 26,
+    "forks_count": 34
+  },
+  {
+    "full_name": "reactwg/react-native-new-architecture",
+    "stargazers_count": 623,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "OneKeyHQ/app-monorepo",
-    "stargazers_count": 1197,
-    "open_issues_count": 3,
+    "stargazers_count": 1201,
+    "open_issues_count": 5,
     "forks_count": 165
   },
   {
     "full_name": "MetaMask/metamask-mobile",
-    "stargazers_count": 1260,
+    "stargazers_count": 1267,
     "open_issues_count": 669,
-    "forks_count": 615
+    "forks_count": 618
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 25531,
-    "open_issues_count": 236,
-    "forks_count": 2970
+    "stargazers_count": 25629,
+    "open_issues_count": 245,
+    "forks_count": 2987
   },
   {
     "full_name": "portainer/portainer",
-    "stargazers_count": 23042,
-    "open_issues_count": 932,
-    "forks_count": 2038
+    "stargazers_count": 23128,
+    "open_issues_count": 933,
+    "forks_count": 2043
   },
   {
     "full_name": "photoprism/photoprism",
-    "stargazers_count": 22521,
+    "stargazers_count": 22578,
     "open_issues_count": 359,
-    "forks_count": 1265
+    "forks_count": 1266
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 5659,
+    "stargazers_count": 5681,
     "open_issues_count": 119,
-    "forks_count": 257
+    "forks_count": 259
   },
   {
     "full_name": "nextcloud/server",
-    "stargazers_count": 20162,
-    "open_issues_count": 2540,
-    "forks_count": 3218
+    "stargazers_count": 20194,
+    "open_issues_count": 2567,
+    "forks_count": 3223
   },
   {
     "full_name": "mantinedev/mantine-next-template",
-    "stargazers_count": 220,
+    "stargazers_count": 225,
     "open_issues_count": 5,
-    "forks_count": 45
+    "forks_count": 47
   },
   {
     "full_name": "iv-org/invidious",
-    "stargazers_count": 8282,
+    "stargazers_count": 8347,
     "open_issues_count": 326,
-    "forks_count": 750
+    "forks_count": 753
   },
   {
     "full_name": "jellyfin/jellyfin",
-    "stargazers_count": 16680,
-    "open_issues_count": 879,
-    "forks_count": 1639
+    "stargazers_count": 16730,
+    "open_issues_count": 877,
+    "forks_count": 1641
   },
   {
     "full_name": "jellyfin/jellyfin-expo",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 42,
     "forks_count": 38
   },
   {
     "full_name": "jellyfin/jellyfin-web",
-    "stargazers_count": 956,
-    "open_issues_count": 243,
-    "forks_count": 610
+    "stargazers_count": 958,
+    "open_issues_count": 244,
+    "forks_count": 611
   },
   {
     "full_name": "firefly-iii/firefly-iii",
-    "stargazers_count": 8920,
-    "open_issues_count": 94,
+    "stargazers_count": 8941,
+    "open_issues_count": 93,
     "forks_count": 924
   },
   {
     "full_name": "spikecodes/libreddit",
-    "stargazers_count": 3453,
+    "stargazers_count": 3472,
     "open_issues_count": 144,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 2482,
-    "open_issues_count": 66,
-    "forks_count": 261
+    "stargazers_count": 2495,
+    "open_issues_count": 70,
+    "forks_count": 264
   },
   {
     "full_name": "meienberger/runtipi",
-    "stargazers_count": 3940,
+    "stargazers_count": 3991,
     "open_issues_count": 24,
     "forks_count": 79
   },
   {
     "full_name": "rtivital/omatsuri",
-    "stargazers_count": 1884,
+    "stargazers_count": 1888,
     "open_issues_count": 4,
     "forks_count": 132
   },
   {
     "full_name": "Charca/astro-movies",
-    "stargazers_count": 53,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 2144,
-    "open_issues_count": 22,
+    "stargazers_count": 2155,
+    "open_issues_count": 23,
     "forks_count": 159
   },
   {
     "full_name": "jeanverster/chakra-ui-steps",
-    "stargazers_count": 292,
+    "stargazers_count": 293,
     "open_issues_count": 15,
     "forks_count": 32
   },
   {
     "full_name": "aod/zhithead",
-    "stargazers_count": 100,
+    "stargazers_count": 103,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "typestack/class-validator",
-    "stargazers_count": 8302,
-    "open_issues_count": 423,
+    "stargazers_count": 8324,
+    "open_issues_count": 422,
     "forks_count": 629
   },
   {
     "full_name": "pankod/refine",
-    "stargazers_count": 2997,
-    "open_issues_count": 16,
+    "stargazers_count": 3045,
+    "open_issues_count": 18,
     "forks_count": 222
   },
   {
     "full_name": "notadd/notadd",
-    "stargazers_count": 2635,
+    "stargazers_count": 2636,
     "open_issues_count": 38,
     "forks_count": 391
   },
   {
     "full_name": "FaridSafi/react-native-gifted-chat",
     "stargazers_count": 11923,
-    "open_issues_count": 76,
-    "forks_count": 3398
+    "open_issues_count": 75,
+    "forks_count": 3400
   },
   {
     "full_name": "airbnb/lottie-android",
-    "stargazers_count": 33222,
-    "open_issues_count": 38,
-    "forks_count": 5299
-  },
-  {
-    "full_name": "infinitered/ignite",
-    "stargazers_count": 14210,
-    "open_issues_count": 73,
-    "forks_count": 1160
-  },
-  {
-    "full_name": "lingui/js-lingui",
-    "stargazers_count": 3431,
-    "open_issues_count": 22,
-    "forks_count": 317
-  },
-  {
-    "full_name": "astrodon/astrodon",
-    "stargazers_count": 716,
-    "open_issues_count": 10,
-    "forks_count": 18
-  },
-  {
-    "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 7625,
-    "open_issues_count": 70,
-    "forks_count": 963
+    "stargazers_count": 33227,
+    "open_issues_count": 37,
+    "forks_count": 5301
   }
 ]
