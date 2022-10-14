@@ -1,182 +1,182 @@
 [
   {
     "full_name": "Aashu-Dubey/React-Native-UI-Templates",
-    "stargazers_count": 460,
+    "stargazers_count": 543,
     "open_issues_count": 2,
-    "forks_count": 73
+    "forks_count": 77
   },
   {
     "full_name": "GetStream/react-native-samples",
     "stargazers_count": 75,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 29
   },
   {
     "full_name": "infinitered/reactotron",
-    "stargazers_count": 13752,
+    "stargazers_count": 13755,
     "open_issues_count": 124,
-    "forks_count": 902
+    "forks_count": 904
   },
   {
     "full_name": "creativetimofficial/argon-react-native",
-    "stargazers_count": 557,
-    "open_issues_count": 4,
-    "forks_count": 291
+    "stargazers_count": 558,
+    "open_issues_count": 5,
+    "forks_count": 294
   },
   {
     "full_name": "ant-design/ant-design-mobile-rn",
     "stargazers_count": 2594,
     "open_issues_count": 34,
-    "forks_count": 580
+    "forks_count": 581
   },
   {
     "full_name": "obytes/react-native-template-obytes",
-    "stargazers_count": 472,
+    "stargazers_count": 474,
     "open_issues_count": 3,
-    "forks_count": 78
+    "forks_count": 77
   },
   {
     "full_name": "chatwoot/chatwoot-mobile-app",
     "stargazers_count": 364,
-    "open_issues_count": 64,
+    "open_issues_count": 62,
     "forks_count": 139
   },
   {
     "full_name": "alexZajac/react-native-skeleton-content",
-    "stargazers_count": 396,
+    "stargazers_count": 397,
     "open_issues_count": 7,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "EdgeApp/edge-react-gui",
-    "stargazers_count": 391,
-    "open_issues_count": 101,
-    "forks_count": 242
+    "stargazers_count": 392,
+    "open_issues_count": 106,
+    "forks_count": 244
   },
   {
     "full_name": "heylinda/heylinda-app",
-    "stargazers_count": 457,
+    "stargazers_count": 460,
     "open_issues_count": 15,
-    "forks_count": 113
+    "forks_count": 115
   },
   {
     "full_name": "pagopa/io-app",
     "stargazers_count": 458,
-    "open_issues_count": 27,
-    "forks_count": 79
+    "open_issues_count": 29,
+    "forks_count": 80
   },
   {
     "full_name": "grahammendick/navigation",
     "stargazers_count": 462,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 36
   },
   {
     "full_name": "pmndrs/its-fine",
-    "stargazers_count": 611,
+    "stargazers_count": 612,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 592,
-    "open_issues_count": 58,
-    "forks_count": 61
+    "stargazers_count": 593,
+    "open_issues_count": 59,
+    "forks_count": 62
   },
   {
     "full_name": "zehfernandes/wordnote",
-    "stargazers_count": 584,
+    "stargazers_count": 586,
     "open_issues_count": 16,
     "forks_count": 29
   },
   {
     "full_name": "microsoft/chart-parts",
-    "stargazers_count": 594,
+    "stargazers_count": 595,
     "open_issues_count": 26,
     "forks_count": 34
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 630,
+    "stargazers_count": 634,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "OneKeyHQ/app-monorepo",
-    "stargazers_count": 1215,
-    "open_issues_count": 9,
-    "forks_count": 170
+    "stargazers_count": 1218,
+    "open_issues_count": 10,
+    "forks_count": 171
   },
   {
     "full_name": "MetaMask/metamask-mobile",
-    "stargazers_count": 1289,
-    "open_issues_count": 657,
-    "forks_count": 633
+    "stargazers_count": 1295,
+    "open_issues_count": 658,
+    "forks_count": 634
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 25881,
-    "open_issues_count": 255,
-    "forks_count": 3017
+    "stargazers_count": 25943,
+    "open_issues_count": 239,
+    "forks_count": 3023
   },
   {
     "full_name": "portainer/portainer",
-    "stargazers_count": 23281,
-    "open_issues_count": 973,
-    "forks_count": 2052
+    "stargazers_count": 23303,
+    "open_issues_count": 977,
+    "forks_count": 2053
   },
   {
     "full_name": "photoprism/photoprism",
-    "stargazers_count": 22789,
-    "open_issues_count": 360,
-    "forks_count": 1281
+    "stargazers_count": 22826,
+    "open_issues_count": 357,
+    "forks_count": 1286
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 5778,
-    "open_issues_count": 123,
-    "forks_count": 262
+    "stargazers_count": 5801,
+    "open_issues_count": 124,
+    "forks_count": 263
   },
   {
     "full_name": "nextcloud/server",
-    "stargazers_count": 20300,
-    "open_issues_count": 2588,
-    "forks_count": 3238
+    "stargazers_count": 20331,
+    "open_issues_count": 2585,
+    "forks_count": 3241
   },
   {
     "full_name": "mantinedev/mantine-next-template",
-    "stargazers_count": 233,
+    "stargazers_count": 235,
     "open_issues_count": 7,
     "forks_count": 52
   },
   {
     "full_name": "iv-org/invidious",
-    "stargazers_count": 8489,
-    "open_issues_count": 317,
-    "forks_count": 764
+    "stargazers_count": 8510,
+    "open_issues_count": 314,
+    "forks_count": 765
   },
   {
     "full_name": "jellyfin/jellyfin",
-    "stargazers_count": 16906,
-    "open_issues_count": 889,
-    "forks_count": 1658
+    "stargazers_count": 16949,
+    "open_issues_count": 890,
+    "forks_count": 1662
   },
   {
     "full_name": "jellyfin/jellyfin-expo",
-    "stargazers_count": 152,
+    "stargazers_count": 154,
     "open_issues_count": 42,
     "forks_count": 37
   },
   {
     "full_name": "jellyfin/jellyfin-web",
-    "stargazers_count": 966,
-    "open_issues_count": 236,
-    "forks_count": 622
+    "stargazers_count": 969,
+    "open_issues_count": 243,
+    "forks_count": 628
   },
   {
     "full_name": "firefly-iii/firefly-iii",
-    "stargazers_count": 9026,
+    "stargazers_count": 9043,
     "open_issues_count": 96,
-    "forks_count": 928
+    "forks_count": 931
   }
 ]
