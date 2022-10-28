@@ -1,49 +1,61 @@
 [
   {
+    "full_name": "novuhq/novu",
+    "stargazers_count": 11814,
+    "open_issues_count": 149,
+    "forks_count": 742
+  },
+  {
+    "full_name": "Th3Wall/Fakeflix",
+    "stargazers_count": 4720,
+    "open_issues_count": 3,
+    "forks_count": 640
+  },
+  {
     "full_name": "bitloops/bitloops-language",
-    "stargazers_count": 33,
-    "open_issues_count": 10,
-    "forks_count": 2
+    "stargazers_count": 88,
+    "open_issues_count": 11,
+    "forks_count": 3
   },
   {
     "full_name": "BuilderIO/builder",
-    "stargazers_count": 3988,
-    "open_issues_count": 71,
-    "forks_count": 522
+    "stargazers_count": 4009,
+    "open_issues_count": 73,
+    "forks_count": 524
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 7004,
-    "open_issues_count": 96,
-    "forks_count": 261
+    "stargazers_count": 7029,
+    "open_issues_count": 102,
+    "forks_count": 262
   },
   {
     "full_name": "facebook/memlab",
-    "stargazers_count": 3361,
-    "open_issues_count": 9,
-    "forks_count": 75
+    "stargazers_count": 3404,
+    "open_issues_count": 8,
+    "forks_count": 78
   },
   {
     "full_name": "joelparkerhenderson/architecture-decision-record",
-    "stargazers_count": 7897,
+    "stargazers_count": 7919,
     "open_issues_count": 1,
-    "forks_count": 1907
+    "forks_count": 1911
   },
   {
     "full_name": "Aashu-Dubey/React-Native-UI-Templates",
-    "stargazers_count": 594,
+    "stargazers_count": 598,
     "open_issues_count": 2,
-    "forks_count": 91
+    "forks_count": 94
   },
   {
     "full_name": "GetStream/react-native-samples",
     "stargazers_count": 77,
     "open_issues_count": 3,
-    "forks_count": 30
+    "forks_count": 29
   },
   {
     "full_name": "infinitered/reactotron",
-    "stargazers_count": 13765,
+    "stargazers_count": 13772,
     "open_issues_count": 124,
     "forks_count": 905
   },
@@ -51,65 +63,65 @@
     "full_name": "creativetimofficial/argon-react-native",
     "stargazers_count": 561,
     "open_issues_count": 5,
-    "forks_count": 309
+    "forks_count": 313
   },
   {
     "full_name": "ant-design/ant-design-mobile-rn",
-    "stargazers_count": 2599,
+    "stargazers_count": 2605,
     "open_issues_count": 31,
-    "forks_count": 581
+    "forks_count": 582
   },
   {
     "full_name": "obytes/react-native-template-obytes",
-    "stargazers_count": 487,
-    "open_issues_count": 5,
+    "stargazers_count": 488,
+    "open_issues_count": 4,
     "forks_count": 79
   },
   {
     "full_name": "chatwoot/chatwoot-mobile-app",
-    "stargazers_count": 366,
-    "open_issues_count": 59,
-    "forks_count": 141
+    "stargazers_count": 368,
+    "open_issues_count": 57,
+    "forks_count": 145
   },
   {
     "full_name": "alexZajac/react-native-skeleton-content",
-    "stargazers_count": 402,
+    "stargazers_count": 404,
     "open_issues_count": 8,
-    "forks_count": 103
+    "forks_count": 104
   },
   {
     "full_name": "EdgeApp/edge-react-gui",
-    "stargazers_count": 393,
-    "open_issues_count": 104,
+    "stargazers_count": 395,
+    "open_issues_count": 108,
     "forks_count": 245
   },
   {
     "full_name": "heylinda/heylinda-app",
-    "stargazers_count": 463,
+    "stargazers_count": 464,
     "open_issues_count": 15,
-    "forks_count": 115
+    "forks_count": 116
   },
   {
     "full_name": "pagopa/io-app",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 30,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "grahammendick/navigation",
     "stargazers_count": 464,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 36
   },
   {
     "full_name": "pmndrs/its-fine",
-    "stargazers_count": 625,
+    "stargazers_count": 627,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 608,
+    "stargazers_count": 612,
     "open_issues_count": 64,
     "forks_count": 63
   },
@@ -127,56 +139,44 @@
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 642,
+    "stargazers_count": 644,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "OneKeyHQ/app-monorepo",
-    "stargazers_count": 1229,
-    "open_issues_count": 7,
-    "forks_count": 172
+    "stargazers_count": 1235,
+    "open_issues_count": 6,
+    "forks_count": 174
   },
   {
     "full_name": "MetaMask/metamask-mobile",
-    "stargazers_count": 1310,
-    "open_issues_count": 673,
-    "forks_count": 644
+    "stargazers_count": 1313,
+    "open_issues_count": 678,
+    "forks_count": 645
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 26123,
-    "open_issues_count": 251,
-    "forks_count": 3051
+    "stargazers_count": 26176,
+    "open_issues_count": 252,
+    "forks_count": 3062
   },
   {
     "full_name": "portainer/portainer",
-    "stargazers_count": 23404,
-    "open_issues_count": 966,
-    "forks_count": 2063
+    "stargazers_count": 23429,
+    "open_issues_count": 974,
+    "forks_count": 2065
   },
   {
     "full_name": "photoprism/photoprism",
-    "stargazers_count": 22978,
-    "open_issues_count": 358,
-    "forks_count": 1297
+    "stargazers_count": 23007,
+    "open_issues_count": 359,
+    "forks_count": 1296
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 5914,
-    "open_issues_count": 127,
-    "forks_count": 269
-  },
-  {
-    "full_name": "nextcloud/server",
-    "stargazers_count": 20432,
-    "open_issues_count": 2614,
-    "forks_count": 3250
-  },
-  {
-    "full_name": "mantinedev/mantine-next-template",
-    "stargazers_count": 242,
-    "open_issues_count": 9,
-    "forks_count": 53
+    "stargazers_count": 5940,
+    "open_issues_count": 128,
+    "forks_count": 268
   }
 ]
