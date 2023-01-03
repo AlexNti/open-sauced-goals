@@ -1,9 +1,9 @@
 [
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 9947,
-    "open_issues_count": 67,
-    "forks_count": 392
+    "stargazers_count": 9974,
+    "open_issues_count": 68,
+    "forks_count": 393
   },
   {
     "full_name": "caiogondim/fast-memoize.js",
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "sharanyaa/grok_sdi_educative",
-    "stargazers_count": 1103,
+    "stargazers_count": 1106,
     "open_issues_count": 1,
-    "forks_count": 550
+    "forks_count": 553
   },
   {
     "full_name": "kgrzybek/modular-monolith-with-ddd",
-    "stargazers_count": 7781,
+    "stargazers_count": 7794,
     "open_issues_count": 52,
-    "forks_count": 1170
+    "forks_count": 1171
   },
   {
     "full_name": "anatoliygatt/heart-switch",
     "stargazers_count": 413,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 15
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "clerkinc/t3-turbo-and-clerk",
-    "stargazers_count": 18,
-    "open_issues_count": 1,
+    "stargazers_count": 23,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -55,69 +55,69 @@
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 18946,
+    "stargazers_count": 18966,
     "open_issues_count": 38,
-    "forks_count": 2500
+    "forks_count": 2502
   },
   {
     "full_name": "clerkinc/javascript",
-    "stargazers_count": 144,
-    "open_issues_count": 23,
+    "stargazers_count": 145,
+    "open_issues_count": 24,
     "forks_count": 19
   },
   {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 3637,
+    "stargazers_count": 3665,
     "open_issues_count": 20,
-    "forks_count": 218
+    "forks_count": 220
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 15214,
+    "stargazers_count": 15222,
     "open_issues_count": 33,
     "forks_count": 745
   },
   {
     "full_name": "WebGoat/WebGoat",
-    "stargazers_count": 5330,
+    "stargazers_count": 5334,
     "open_issues_count": 39,
-    "forks_count": 3507
+    "forks_count": 3510
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 5054,
-    "open_issues_count": 57,
-    "forks_count": 169
+    "stargazers_count": 5094,
+    "open_issues_count": 56,
+    "forks_count": 171
   },
   {
     "full_name": "yinxin630/fiora",
-    "stargazers_count": 5552,
+    "stargazers_count": 5556,
     "open_issues_count": 84,
-    "forks_count": 1140
+    "forks_count": 1139
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 5648,
-    "open_issues_count": 86,
-    "forks_count": 459
+    "stargazers_count": 5673,
+    "open_issues_count": 88,
+    "forks_count": 460
   },
   {
     "full_name": "G33kzD3n/Catalogue",
-    "stargazers_count": 765,
+    "stargazers_count": 780,
     "open_issues_count": 0,
-    "forks_count": 316
+    "forks_count": 320
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 19237,
+    "stargazers_count": 19251,
     "open_issues_count": 23,
-    "forks_count": 4752
+    "forks_count": 4755
   },
   {
     "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 17447,
-    "open_issues_count": 259,
-    "forks_count": 1586
+    "stargazers_count": 17475,
+    "open_issues_count": 254,
+    "forks_count": 1587
   },
   {
     "full_name": "alibaba/ali-react-table",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "phuocng/1loc",
-    "stargazers_count": 6350,
+    "stargazers_count": 6351,
     "open_issues_count": 48,
     "forks_count": 496
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 16193,
-    "open_issues_count": 148,
-    "forks_count": 563
+    "stargazers_count": 16341,
+    "open_issues_count": 143,
+    "forks_count": 566
   },
   {
     "full_name": "howljs/react-native-calendar-kit",
-    "stargazers_count": 174,
+    "stargazers_count": 176,
     "open_issues_count": 5,
     "forks_count": 8
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "emqx/emqx",
-    "stargazers_count": 10869,
-    "open_issues_count": 216,
+    "stargazers_count": 10877,
+    "open_issues_count": 215,
     "forks_count": 1916
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 8834,
-    "open_issues_count": 20,
-    "forks_count": 396
+    "stargazers_count": 8869,
+    "open_issues_count": 14,
+    "forks_count": 397
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5327,
-    "open_issues_count": 51,
-    "forks_count": 111
+    "stargazers_count": 5349,
+    "open_issues_count": 52,
+    "forks_count": 112
   },
   {
     "full_name": "DouyinFE/semi-design",
-    "stargazers_count": 6533,
-    "open_issues_count": 133,
-    "forks_count": 519
+    "stargazers_count": 6538,
+    "open_issues_count": 134,
+    "forks_count": 520
   }
 ]
