@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "t3-oss/create-t3-turbo",
+    "stargazers_count": 1408,
+    "open_issues_count": 6,
+    "forks_count": 86
+  },
+  {
+    "full_name": "KevinVandy/material-react-table",
+    "stargazers_count": 350,
+    "open_issues_count": 5,
+    "forks_count": 84
+  },
+  {
     "full_name": "yjs/yjs",
-    "stargazers_count": 9974,
+    "stargazers_count": 10020,
     "open_issues_count": 68,
-    "forks_count": 393
+    "forks_count": 394
   },
   {
     "full_name": "caiogondim/fast-memoize.js",
-    "stargazers_count": 2532,
+    "stargazers_count": 2533,
     "open_issues_count": 23,
     "forks_count": 107
   },
   {
     "full_name": "sharanyaa/grok_sdi_educative",
-    "stargazers_count": 1106,
+    "stargazers_count": 1109,
     "open_issues_count": 1,
     "forks_count": 553
   },
   {
     "full_name": "kgrzybek/modular-monolith-with-ddd",
-    "stargazers_count": 7794,
+    "stargazers_count": 7814,
     "open_issues_count": 52,
-    "forks_count": 1171
+    "forks_count": 1172
   },
   {
     "full_name": "anatoliygatt/heart-switch",
@@ -37,13 +49,13 @@
   },
   {
     "full_name": "perkinsjr/clerk-trpc-minimal",
-    "stargazers_count": 21,
-    "open_issues_count": 3,
+    "stargazers_count": 22,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "clerkinc/t3-turbo-and-clerk",
-    "stargazers_count": 23,
+    "stargazers_count": 29,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -55,91 +67,91 @@
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 18966,
+    "stargazers_count": 18984,
     "open_issues_count": 38,
-    "forks_count": 2502
+    "forks_count": 2505
   },
   {
     "full_name": "clerkinc/javascript",
     "stargazers_count": 145,
-    "open_issues_count": 24,
-    "forks_count": 19
+    "open_issues_count": 26,
+    "forks_count": 20
   },
   {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 3665,
+    "stargazers_count": 3723,
     "open_issues_count": 20,
-    "forks_count": 220
+    "forks_count": 223
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 15222,
+    "stargazers_count": 15239,
     "open_issues_count": 33,
-    "forks_count": 745
+    "forks_count": 746
   },
   {
     "full_name": "WebGoat/WebGoat",
-    "stargazers_count": 5334,
-    "open_issues_count": 39,
-    "forks_count": 3510
+    "stargazers_count": 5341,
+    "open_issues_count": 34,
+    "forks_count": 3520
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 5094,
-    "open_issues_count": 56,
+    "stargazers_count": 5109,
+    "open_issues_count": 54,
     "forks_count": 171
   },
   {
     "full_name": "yinxin630/fiora",
-    "stargazers_count": 5556,
-    "open_issues_count": 84,
+    "stargazers_count": 5558,
+    "open_issues_count": 85,
     "forks_count": 1139
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 5673,
-    "open_issues_count": 88,
-    "forks_count": 460
+    "stargazers_count": 5682,
+    "open_issues_count": 86,
+    "forks_count": 462
   },
   {
     "full_name": "G33kzD3n/Catalogue",
-    "stargazers_count": 780,
+    "stargazers_count": 791,
     "open_issues_count": 0,
-    "forks_count": 320
+    "forks_count": 323
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 19251,
+    "stargazers_count": 19267,
     "open_issues_count": 23,
-    "forks_count": 4755
+    "forks_count": 4756
   },
   {
     "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 17475,
+    "stargazers_count": 17510,
     "open_issues_count": 254,
-    "forks_count": 1587
+    "forks_count": 1591
   },
   {
     "full_name": "alibaba/ali-react-table",
-    "stargazers_count": 848,
+    "stargazers_count": 851,
     "open_issues_count": 85,
     "forks_count": 234
   },
   {
     "full_name": "phuocng/1loc",
-    "stargazers_count": 6351,
+    "stargazers_count": 6356,
     "open_issues_count": 48,
     "forks_count": 496
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 16341,
-    "open_issues_count": 143,
-    "forks_count": 566
+    "stargazers_count": 16491,
+    "open_issues_count": 136,
+    "forks_count": 571
   },
   {
     "full_name": "howljs/react-native-calendar-kit",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 5,
     "forks_count": 8
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "emqx/emqx",
-    "stargazers_count": 10877,
-    "open_issues_count": 215,
-    "forks_count": 1916
+    "stargazers_count": 10899,
+    "open_issues_count": 225,
+    "forks_count": 1918
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 8869,
-    "open_issues_count": 14,
-    "forks_count": 397
-  },
-  {
-    "full_name": "tremorlabs/tremor",
-    "stargazers_count": 5349,
-    "open_issues_count": 52,
-    "forks_count": 112
-  },
-  {
-    "full_name": "DouyinFE/semi-design",
-    "stargazers_count": 6538,
-    "open_issues_count": 134,
-    "forks_count": 520
+    "stargazers_count": 8909,
+    "open_issues_count": 16,
+    "forks_count": 400
   }
 ]
